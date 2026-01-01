@@ -1,5 +1,5 @@
 # Week Assignment – Moses Tumbo Amwoma
-**Course:** CT204  
+**Course:** CT204  BDS
 **Registration Number:** CT204/119586/24  
 
 ---
